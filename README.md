@@ -1,4 +1,5 @@
-testrepo
+Test Repositor
 ========
 
-test repository
+Github example Repository  
+Github 説明、解説用
